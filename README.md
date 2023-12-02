@@ -1,2 +1,1 @@
-# Data-Analytics-Healthcare
-In this project we want to predict ......
+# Python - Neural Network, Naive Bayes & SVC Heart Data
